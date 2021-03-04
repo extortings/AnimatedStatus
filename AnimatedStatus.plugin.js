@@ -12,11 +12,11 @@ class AnimatedStatus {
 	}
 
 	getVersion() {
-		return "0.11.1";
+		return "0.1.1";
 	}
 
 	getAuthor() {
-		return "toluschr";
+		return "nickrunsyou";
 	}
 
 	getDescription() {
